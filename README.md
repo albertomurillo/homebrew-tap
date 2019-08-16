@@ -4,6 +4,8 @@ Temporary home for formulae not in homebrew core
 ## Available formulae
 [lp_solve:](http://lpsolve.sourceforge.net/5.5/) A Mixed Integer Linear Programming (MILP) solver
 
+[kmdr](https://kmdr.sh) A command-line interface for explaining commands in the terminal
+
 ## How to install
 ```
 brew install albertomurillo/tap/lp_solve
